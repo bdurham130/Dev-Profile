@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# Developer Profile: Brandon Durham
-
 My name is Brandon Durham, and I'm excited to be able to learn more about web development!
 
 ---
@@ -19,6 +15,7 @@ My name is Brandon Durham, and I'm excited to be able to learn more about web de
 ## 💻 Dev Experience
 
 - Python 🐍
+- Java ☕
 
 ---
 
@@ -30,6 +27,6 @@ This site is a "Developer Profile" page built using:
 - Bootstrap 5 (BS5)
 - CSS with Normalize.css and Google Fonts
 - JavaScript for interactive DOM functionality
-
+- Deployed via GitHub Pages
 
 
