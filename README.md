@@ -1,4 +1,4 @@
-My name is Brandon Durham, and I'm excited to be able to learn more about web development!
+My name is Brandon Durham, and I'm excited to show my journey of Web Development!
 
 ---
 
