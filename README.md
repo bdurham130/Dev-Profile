@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**bdurham130/bdurham130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Developer Profile: Brandon Durham
 
-Here are some ideas to get you started:
+My name is Brandon Durham, and I'm excited to be able to learn more about web development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 Bio
+
+- Love crypto and the stock market 💰
+- Love to travel 🚋
+- My favorite sport to watch is basketball 🏀
+- I also really love cars 🚗
+- GitHub: [github.com/bdurham130](https://github.com/bdurham130)
+
+---
+
+## 💻 Dev Experience
+
+- Python 🐍
+
+---
+
+## 🚀 Current Project
+
+This site is a "Developer Profile" page built using:
+
+- HTML5 + Emmet
+- Bootstrap 5 (BS5)
+- CSS with Normalize.css and Google Fonts
+- JavaScript for interactive DOM functionality
+
+
+
